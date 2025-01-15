@@ -68,7 +68,7 @@ return {
         ["Crab"] = { Link = "https://static.wikitide.net/fischwiki/6/63/Crab.png" },
         ["Solar Fragment"] = { Link = "https://static.wikitide.net/fischwiki/2/26/Solar_Fragment.png" },
         ["Icy Goldfish"] = { Link = "https://static.wikitide.net/fischwiki/d/d2/Icy_Goldfish.png" },
-        ["Glacial Sturgeon"] = { Link = "https://static.wikitide.net/fischwiki/4/40/Glacial_Sturgeon.png" },
+        ["Glacial Sturgeon"] = { Link = "https://static.wikitide.net/fischwiki/thumb/4/40/Glacial_Sturgeon.png/1200px-Glacial_Sturgeon.png" },
         ["Frostling Goby"] = { Link = "https://static.wikitide.net/fischwiki/f/f7/Frostling_Goby.png" },
         ["Three-eyed Fish"] = { Link = "https://static.wikitide.net/fischwiki/2/2e/Three-eyed_Fish.png" },
         ["Snowflake Smelt"] = { Link = "https://static.wikitide.net/fischwiki/0/03/Snowflake_Smelt.png" },
