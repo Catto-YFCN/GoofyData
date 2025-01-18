@@ -687,5 +687,6 @@ return {
         ["GOLDENTIDE"] = {},
         ["NewYear"] = {},
         ["RFG"] = {},
+        ["ATLANTEANSTORM"] = {},
     },
 }
