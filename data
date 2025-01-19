@@ -689,5 +689,6 @@ return {
         ["NewYear"] = {},
         ["RFG"] = {},
         ["ATLANTEANSTORM"] = {},
+        ["SORRYGUYS"] = {},
     },
 }
