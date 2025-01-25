@@ -799,6 +799,8 @@ return {
         ["Divine"] = {},
     },
     Codes = {
+        ["SORRYGUYS"] = {},
+        ["ATLANTEANSTORM"] = {},
         ["GOLDENTIDE"] = {},
         ["NewYear"] = {},
         ["RFG"] = {},
