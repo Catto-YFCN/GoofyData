@@ -798,12 +798,4 @@ return {
         ["Common"] = {},
         ["Divine"] = {},
     },
-    Codes = {
-        ["CARBON"] = {},
-        ["SORRYGUYS"] = {},
-        ["ATLANTEANSTORM"] = {},
-        ["GOLDENTIDE"] = {},
-        ["NewYear"] = {},
-        ["RFG"] = {},
-    },
 }
