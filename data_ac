@@ -101,5 +101,310 @@ return {
                 ["4"] = "3071.52295, 71.5070038, -3186.35669, -0.780958652, -0.624583006, 0, 0, 0, 1, -0.624582887, 0.780958712, 0",
             },
         },
+    },
+    Shops = {
+        ["BoatShop2"] = {
+            ["Color"] = "0, 0.815686, 1",
+            ["Items"] = {
+                ["Ship"] = {
+                    ["Price"] = 300000,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Gems",
+                },
+                ["Merry"] = {
+                    ["Price"] = 500,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Gems",
+                },
+                ["Yagara"] = {
+                    ["Price"] = 15000,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Coins",
+                },
+                ["Boat"] = {
+                    ["Price"] = 3500,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Boat Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
+        ["WeaponShop5"] = {
+            ["Color"] = "1, 1, 0",
+            ["Items"] = {
+                ["DualTrident"] = {
+                    ["Price"] = 446219999999.99994,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["StellKopesh"] = {
+                    ["Price"] = 56280000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualCrystalScepter"] = {
+                    ["Price"] = 223109999999.99997,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["GreatTrident"] = {
+                    ["Price"] = 112560000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["BasicStaff"] = {
+                    ["Price"] = 28140000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualGreatSaber"] = {
+                    ["Price"] = 14070000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Weapon Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
+        ["RuneShop"] = {
+            ["Color"] = "0.858824, 0.298039, 1",
+            ["Items"] = {
+                ["DgHealthRune"] = {
+                    ["Price"] = 55,
+                    ["Type"] = "Item",
+                    ["PriceType"] = "Ticket",
+                },
+                ["DgTimeRune"] = {
+                    ["Price"] = 35,
+                    ["Type"] = "Item",
+                    ["PriceType"] = "Ticket",
+                },
+                ["DgCashRune"] = {
+                    ["Price"] = 35,
+                    ["Type"] = "Item",
+                    ["PriceType"] = "Ticket",
+                },
+                ["DgMoreRoomRune"] = {
+                    ["Price"] = 35,
+                    ["Type"] = "Item",
+                    ["PriceType"] = "Ticket",
+                },
+                ["DgRoomRune"] = {
+                    ["Price"] = 55,
+                    ["Type"] = "Item",
+                    ["PriceType"] = "Ticket",
+                },
+                ["DgGemsRune"] = {
+                    ["Price"] = 35,
+                    ["Type"] = "Item",
+                    ["PriceType"] = "Ticket",
+                },
+            },
+            ["Name"] = "Rune Shop",
+            ["Icon"] = "rbxassetid://83505536852551",
+        },
+        ["WeaponShop3"] = {
+            ["Color"] = "1, 1, 0",
+            ["Items"] = {
+                ["DualSteelSabers"] = {
+                    ["Price"] = 2500000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["SteelSaber"] = {
+                    ["Price"] = 5650000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["SteelButterfly"] = {
+                    ["Price"] = 12500000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualPirateSaber"] = {
+                    ["Price"] = 1200000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualSteelButterfly"] = {
+                    ["Price"] = 27500000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["SteelKando"] = {
+                    ["Price"] = 60000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Weapon Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
+        ["WeaponShop2"] = {
+            ["Color"] = "1, 1, 0",
+            ["Items"] = {
+                ["PirateSaber"] = {
+                    ["Price"] = 49000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["BronzeGreatAxe"] = {
+                    ["Price"] = 242000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["MonsterSlayer"] = {
+                    ["Price"] = 10000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualBasicStaffs"] = {
+                    ["Price"] = 22000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualAncientMace"] = {
+                    ["Price"] = 535000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["MixedBattleAxe"] = {
+                    ["Price"] = 110000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Weapon Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
+        ["BoatShop3"] = {
+            ["Color"] = "0, 0.815686, 1",
+            ["Items"] = {
+                ["Striker"] = {
+                    ["Price"] = 30000000,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Gems",
+                },
+                ["Boat"] = {
+                    ["Price"] = 3500,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Coins",
+                },
+                ["Ship"] = {
+                    ["Price"] = 300000,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Gems",
+                },
+                ["Merry"] = {
+                    ["Price"] = 500,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Gems",
+                },
+                ["Yagara"] = {
+                    ["Price"] = 15000,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Boat Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
+        ["WeaponShop1"] = {
+            ["Color"] = "1, 1, 0",
+            ["Items"] = {
+                ["SpikeMace"] = {
+                    ["Price"] = 80,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["CrystalScepter"] = {
+                    ["Price"] = 900,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualBoneMace"] = {
+                    ["Price"] = 2000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["GemStaff"] = {
+                    ["Price"] = 180,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualSteelNaginata"] = {
+                    ["Price"] = 4500,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["DualKando"] = {
+                    ["Price"] = 400,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Weapon Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
+        ["WeaponShop4"] = {
+            ["Color"] = "1, 1, 0",
+            ["Items"] = {
+                ["SteelNaginata"] = {
+                    ["Price"] = 132000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["BoneMace"] = {
+                    ["Price"] = 630000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["GreatKopesh"] = {
+                    ["Price"] = 290000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["CrimsonStaff"] = {
+                    ["Price"] = 3000000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["AncientMace"] = {
+                    ["Price"] = 1400000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+                ["GreatSaber"] = {
+                    ["Price"] = 6700000000,
+                    ["Type"] = "Weapon",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Weapon Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
+        ["BoatShop1"] = {
+            ["Color"] = "0, 0.815686, 1",
+            ["Items"] = {
+                ["Merry"] = {
+                    ["Price"] = 500,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Gems",
+                },
+                ["Yagara"] = {
+                    ["Price"] = 15000,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Coins",
+                },
+                ["Boat"] = {
+                    ["Price"] = 3500,
+                    ["Type"] = "Mount",
+                    ["PriceType"] = "Coins",
+                },
+            },
+            ["Name"] = "Boat Shop",
+            ["Icon"] = "rbxassetid://134715218621889",
+        },
     }
 }
