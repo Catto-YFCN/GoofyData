@@ -599,5 +599,12 @@ return {
         ["Minecart"] = { Name = "Minecart" },
         ["Boat"] = { Name = "Simple Boat" },
         ["Yagara"] = { Name = "Bagara" },
+    },
+    Enchants = {
+        ["VorpalAspect"] = { Type = "Weapon", Level = { 1, 4 } },
+        ["Loot"] = { Type = "Weapon", Level = { 1, 3 } },
+        ["Vorpal"] = { Type = "Weapon", Level = { 1, 7 } },
+        ["FireAspect"] = { Type = "Weapon", Level = { 1, 3 } },
+        ["Sharpness"] = { Type = "Weapon", Level = { 1, 8 } },
     }
 }
